@@ -1,0 +1,11 @@
+C:\Projetos C#\Ativ-Sistema_de_Vendas\obj\Debug\Ativ-Sistema_de_Vendas.csproj.AssemblyReference.cache
+C:\Projetos C#\Ativ-Sistema_de_Vendas\obj\Debug\Ativ_Sistema_de_Vendas.FrmPrincipal.resources
+C:\Projetos C#\Ativ-Sistema_de_Vendas\obj\Debug\Ativ_Sistema_de_Vendas.FrmCliente.resources
+C:\Projetos C#\Ativ-Sistema_de_Vendas\obj\Debug\Ativ_Sistema_de_Vendas.Properties.Resources.resources
+C:\Projetos C#\Ativ-Sistema_de_Vendas\obj\Debug\Ativ-Sistema_de_Vendas.csproj.GenerateResource.cache
+C:\Projetos C#\Ativ-Sistema_de_Vendas\obj\Debug\Ativ-Sistema_de_Vendas.csproj.CoreCompileInputs.cache
+C:\Projetos C#\Ativ-Sistema_de_Vendas\bin\Debug\Ativ-Sistema_de_Vendas.exe.config
+C:\Projetos C#\Ativ-Sistema_de_Vendas\bin\Debug\Ativ-Sistema_de_Vendas.exe
+C:\Projetos C#\Ativ-Sistema_de_Vendas\bin\Debug\Ativ-Sistema_de_Vendas.pdb
+C:\Projetos C#\Ativ-Sistema_de_Vendas\obj\Debug\Ativ-Sistema_de_Vendas.exe
+C:\Projetos C#\Ativ-Sistema_de_Vendas\obj\Debug\Ativ-Sistema_de_Vendas.pdb
